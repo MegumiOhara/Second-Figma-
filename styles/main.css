@@ -24,6 +24,7 @@ body {
 
 }
 .header-main div{
+    border-radius: 15px;
     height:78px;
     margin-left: 20px;
     margin-right: 20px;
@@ -51,6 +52,7 @@ body {
     align-items: center;
 }
 .container-two div{
+    border-radius: 15px;
     height:78px;
     margin-left:20px;
     margin-right:20px;
@@ -117,7 +119,7 @@ body {
     justify-content: center;
 }
 .container-four div{
-
+    border-radius: 15px;
     width:78px;
     margin:20px;
 }
@@ -143,6 +145,7 @@ body {
     justify-content: space-between;
 }
 .container-five div{
+    border-radius: 15px;
     width:78px;
     margin: 20px;
 }
@@ -167,9 +170,11 @@ body {
     margin-top: 20px;
     display: flex;
     justify-content: center;
+    align-items: center;
     
 }
 .container-six div{
+    border-radius: 15px;
     width:78px;
     margin:20px
 }
